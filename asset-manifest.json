@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/searching_algorithm_react_app/static/css/main.2662def5.css",
+    "main.js": "/searching_algorithm_react_app/static/js/main.c0ecfe71.js",
+    "index.html": "/searching_algorithm_react_app/index.html",
+    "main.2662def5.css.map": "/searching_algorithm_react_app/static/css/main.2662def5.css.map",
+    "main.c0ecfe71.js.map": "/searching_algorithm_react_app/static/js/main.c0ecfe71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2662def5.css",
+    "static/js/main.c0ecfe71.js"
+  ]
+}
